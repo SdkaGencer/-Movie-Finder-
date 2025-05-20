@@ -1,12 +1,22 @@
-# React + Vite
+# 🎥 Movie Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Basit ve şık bir arayüze sahip film arama uygulaması. Kullanıcılar film ismine göre arama yapabilir ve filmlerin detay sayfalarını inceleyebilir.
 
-Currently, two official plugins are available:
+## ✨ Özellikler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 Gerçek zamanlı film arama (OMDb API ile)
+- 📄 Film detaylarını görme (isim, yıl, tür, özet vs.)
+- 🔗 React Router ile sayfalar arası geçiş
+- 💻 Mobil uyumlu tasarım
+- 🎨 Sadece `index.css` ile sade stil yapısı
 
-## Expanding the ESLint configuration
+## 🛠️ Kullanılan Teknolojiler
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- React Router DOM
+- OMDb API
+- Düz CSS
+
+
+
+
