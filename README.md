@@ -2,6 +2,8 @@
 
 Basit ve şık bir arayüze sahip film arama uygulaması. Kullanıcılar film ismine göre arama yapabilir ve filmlerin detay sayfalarını inceleyebilir.
 
+#Canlı Link: https://letsfindamovie.netlify.app/
+
 ## ✨ Özellikler
 
 - 🔍 Gerçek zamanlı film arama (OMDb API ile)
